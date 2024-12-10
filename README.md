@@ -1,13 +1,11 @@
 ## Hi there, I'm Wilfredo Cano! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Wcno&color=brightgreen)
-
 I'm a third-year Software Engineering student with a strong technical background in software development and cybersecurity. I'm looking for opportunities to apply and expand my knowledge in a dynamic professional environment. I’m passionate about contributing to challenging projects and continuously learning to contribute to the success of the organization.
 
 ### 🌱 What I'm Learning
 - I'm currently deepening my expertise in **Python**.
 - Enhancing my **Cybersecurity** skills with different courses.
-- 
+  
 ### 📫 How to Reach Me
 - 📧 Email: [canowilfredo28@gmail.com](mailto:canowilfredo28@gmail.com)
 - 🔗 LinkedIn: [Wilfredo Cano](https://www.linkedin.com/in/wilfredo-cano-812660265/)
@@ -21,9 +19,3 @@ I'm a third-year Software Engineering student with a strong technical background
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-
-### ⚡ GitHub Stats
-![Wilfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wcno&show_icons=true&theme=radical)
-
-### 📈 GitHub Activity Streak
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wcno&theme=dark&background=000000)
