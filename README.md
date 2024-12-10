@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there, I'm Wilfredo Cano! 👋
 
-<!--
-**Wcno/Wcno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Views](https://komarev.com/ghpvc/?username=Wcno&color=brightgreen)
 
-Here are some ideas to get you started:
+I'm a third-year Software Engineering student with a strong technical background in software development and cybersecurity. I'm looking for opportunities to apply and expand my knowledge in a dynamic professional environment. I’m passionate about contributing to challenging projects and continuously learning to contribute to the success of the organization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm Learning
+- I'm currently deepening my expertise in **Python**.
+- Enhancing my **Cybersecurity** skills with different courses.
+- 
+### 📫 How to Reach Me
+- 📧 Email: [canowilfredo28@gmail.com](mailto:canowilfredo28@gmail.com)
+- 🔗 LinkedIn: [Wilfredo Cano](https://www.linkedin.com/in/wilfredo-cano-812660265/)
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=postgresql)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+
+### ⚡ GitHub Stats
+![Wilfredo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wcno&show_icons=true&theme=radical)
+
+### 📈 GitHub Activity Streak
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Wcno&theme=dark&background=000000)
