@@ -9,6 +9,7 @@ I'm a third-year Software Engineering student with a strong technical background
 ### 📫 How to Reach Me
 - 📧 Email: [canowilfredo28@gmail.com](mailto:canowilfredo28@gmail.com)
 - 🔗 LinkedIn: [Wilfredo Cano](https://www.linkedin.com/in/wilfredo-cano-812660265/)
+- 🔗 Portfolio: [Inserpasa.com](http://inserpasa.com) – Check out my freelance projects!
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
