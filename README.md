@@ -4,7 +4,7 @@ I'm a third-year Software Engineering student with a strong technical background
 
 ### 🌱 What I'm Learning
 - I'm currently deepening my expertise in **Python**.
-- Enhancing my **Cybersecurity** skills with different courses.
+- Enhancing my **Data Analyst** skills with different courses.
   
 ### 📫 How to Reach Me
 - 📧 Email: [canowilfredo28@gmail.com](mailto:canowilfredo28@gmail.com)
