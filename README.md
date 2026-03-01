@@ -1,12 +1,12 @@
 ## Hi there, I'm Wilfredo Cano! 👋
 
-I'm a fourth-year **Software Engineering student** with a strong foundation in **software development**, **cybersecurity**, and **cloud computing**. I’m driven by solving real-world problems through clean, efficient code and scalable systems. Currently seeking opportunities to contribute to innovative projects, expand my technical expertise, and grow in a dynamic, collaborative environment.
+I'm a fourth-year **Software Engineering student** with a strong foundation in **software development**, **cybersecurity**, and **data analytics**. I’m driven by solving real-world problems through clean, efficient code and scalable systems. Currently seeking opportunities to contribute to innovative projects, expand my technical expertise, and grow in a dynamic, collaborative environment.
 
 ### 🌱 What I'm Learning and actively building expertise in:
-- ☁️ **AWS Cloud & ML Workflows**: Building ML pipelines and serverless data solutions with **SageMaker**, **Glue**, **Athena**, and **Kinesis**.
+- ☁️ **AWS/Azure Cloud & ML Workflows**: Building ML pipelines and serverless data solutions with **SageMaker**, **Glue** and **Databricks**.
 - 🧠 **AI & Agents**: Experimenting with **LLMs**, **RAG**, and **agent-based systems** for intelligent automation.
 - 🧰 **Django + AI**: Developing AI-powered web apps with **Python**, **Django**, and third-party APIs.
-- 📊 **Data Visualization**: Creating reports and dashboards using **Power BI**, **SQL**, and **Pandas**.
+- 📊 **Data Visualization**: Creating reports and dashboards using **Power BI**, **SQL**, **PowerQuery** and **Pandas**.
 
   
 ### 📫 How to Reach Me
